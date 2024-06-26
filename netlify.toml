@@ -1,3 +1,3 @@
 [build]
   command = "ng build --configuration production"
-  publish = "dist/portfolio-angular17-master"
+  publish = "dist/website/browser"
