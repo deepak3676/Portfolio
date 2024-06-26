@@ -1,5 +1,5 @@
 export const environment = {
-    production: false,
+    production: true,
     emailjs: {
       userID: 'xizRa2arsNZZQ7wDh',
       serviceID: 'service_uqlgu5n',
